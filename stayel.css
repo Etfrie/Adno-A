@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(138, 43, 43);
+    text-align: center;
+}
+h4, h4 {
+    color: rgb(206, 19, 19);
+    text-align: center;
+}
+body {
+    font-family: 'rubic Iso, cursive';
+    background-color: rgb(231, 209, 209);
+    border: 6px dotted;
+}
+td {
+    text-align: center;
+    height: 125px;
+    width: 125Px;
+}
+table {
+    margin: auto;
+}
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
